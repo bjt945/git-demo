@@ -1,4 +1,4 @@
-hello master merge test
+hello master merge-test
 hello
 hello
 hello
