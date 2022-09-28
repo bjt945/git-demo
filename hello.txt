@@ -1,4 +1,4 @@
-hello hot-fix branch test
+hello hot-fix test
 hello
 hello
 hello
