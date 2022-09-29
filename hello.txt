@@ -1,7 +1,1 @@
-hello master merge-test || hot-fix test
-hello
-hello
-hello
-hello
-hello
-remote edit1
+hello 
